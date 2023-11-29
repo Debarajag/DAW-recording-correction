@@ -17,7 +17,7 @@ Training Data
 
 AI Techniques
   * Neural networks for the voice recordings
-  * Neural networks for the voice recordings
+  * Neural networks or even convolutional neural networks for the voice recordings
 
 ## How it is used
 The solution can be used by professionals or hobbyists as a plugin/add-on with mainstream DAWs, for either studio or home-studio recording and production.
