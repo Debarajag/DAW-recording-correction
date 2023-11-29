@@ -6,7 +6,7 @@ Create a system that will suggest and apply corrections to the recordings of a s
 
 ## Background
 The voice or instrument recording of an artists can contain flaws.  
-The option to manually edit the recordings and make corrections, requires passions, experience and often many working hours.
+The option to manually edit the recordings and make corrections, requires passions, experience and often many working hours.  
 The problem is common mainly among inexperienced artist and hobbyists that make their first steps into home-recording and music production.
 Music, as well as technology is my hobby, and I would love to combine the two in order to help myself as well as new artists with limited financial recourses to develop close to professional recording and production results.
 
