@@ -29,4 +29,4 @@ It is possible that this solution will not be able to accurately “correct” v
 It will initially not be able to suggest and apply corrections if the recording flaws are too “serious” to be corrected. The outcome can be surprisingly unacceptable. 
 
 ## What's next
-The project could become something even more if the solution is implemented in real-time performances.
+The project could become something bigger if the solution is implemented in real-time performances.
