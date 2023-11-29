@@ -14,6 +14,7 @@ Music, as well as technology is my hobby, and I would love to combine the two in
 Training Data
   * Previous close to perfect voice recording of the artist’s singing.
   * Previous close to perfect samples of a specific  instrument’s recordings
+
 AI Techniques
   * Neural networks for the voice recordings
   * Neural networks for the voice recordings
