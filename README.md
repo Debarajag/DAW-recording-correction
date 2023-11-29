@@ -20,12 +20,12 @@ AI Techniques
   * Neural networks or even convolutional neural networks for the voice recordings
 
 ## How it is used
-The solution can be used by professionals or hobbyists as a plugin/add-on with mainstream DAWs, for either studio or home-studio recording and production.
-Professional Sound Engineers could be affected by the implementation of this solution, in both negative and positive ways.
+The solution can be used by professionals or hobbyists as a plugin/add-on with mainstream DAWs, for either studio or home-studio recording and production.  
+Professional Sound Engineers could be affected by the implementation of this solution, in both negative and positive ways.  
 Hobbyists will be affected in a positive way by the implementation of this solution.
 
 ## Chalenges
-It is possible that this solution will not be able to accurately “correct” voice recording of artists that cannot provide sufficient training data (close to perfect recordings).
+It is possible that this solution will not be able to accurately “correct” voice recording of artists that cannot provide sufficient training data (close to perfect recordings).  
 It will initially not be able to suggest and apply corrections if the recording flaws are too “serious” to be corrected. The outcome can be surprisingly unacceptable. 
 
 ## What's next
