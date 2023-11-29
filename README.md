@@ -1,4 +1,4 @@
-# DAW-recording-correction
+# DAW recordings adjustments
 AI solution that suggests and applies corrections to an artist's voice or instrument DAW recordings
 
 ## Summary
